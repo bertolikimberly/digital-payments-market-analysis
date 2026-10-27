@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+.env
+.DS_Store
+data/*.csv
+dataset_sample_row_white.png
+ecuador_group_differences.png
+in_store_and_cash_reason.png
